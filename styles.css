@@ -1,0 +1,28 @@
+/* Custom Styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
+  
+  header {
+    background-color: #007bff;
+    padding: 60px 0;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card img {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  footer {
+    background-color: #343a40;
+    padding: 20px 0;
+  }
